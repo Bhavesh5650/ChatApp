@@ -80,3 +80,22 @@ The **Chatify** is a modern and secure platform for real-time communication. Use
 - **Firebase Authentication**: Secure login and registration with email/password.
 - **Firebase Firestore**: Real-time database for storing and synchronizing messages.
 - **Firebase Cloud Functions (Optional)**: For backend logic like push notifications.
+
+---
+
+##  ScreenShots
+
+<p>
+  <image src = "https://github.com/user-attachments/assets/8a4148f4-42af-48a7-b760-080f2f0f8023" width="220px"/>
+  <image src = "https://github.com/user-attachments/assets/b8932f81-bc1a-4195-bf8a-c482427db6c7" width="220px"/>
+  <image src = "https://github.com/user-attachments/assets/af9c3d06-ab36-43a8-ac38-cc4264b2dbf5" width="220px"/>
+  <image src = "https://github.com/user-attachments/assets/1017e573-1763-47ff-b2bc-9ee57ee4947a" width="220px"/>
+</p>
+
+<p>
+  <image src = "https://github.com/user-attachments/assets/0a376fef-a6cd-410d-9ac6-ccc9dd8e0df8" width="220px"/>
+  <image src = "https://github.com/user-attachments/assets/0c5b490f-b599-4a2b-a506-fec0e987fdc8" width="220px"/>
+  <image src = "https://github.com/user-attachments/assets/066c32d4-e90f-43d7-977f-d16834e11283" width="220px"/>
+  <image src = "https://github.com/user-attachments/assets/8b9e52f2-76aa-4cc5-adfc-8e1202be507d" width="220px"/>
+</p>
+
